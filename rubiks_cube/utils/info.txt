@@ -1,0 +1,54 @@
+--- VIRTUAL CUBE ---
+Press ‘Scramble Cube’ to get a random scramble and use the buttons describing cube moves to solve it.
+
+The colours - White, Yellow, Blue, Green, Red, Orange indicate the faces of the cube having the centre sticker as the respective colours.
+
+CW indicates the face is turned through 90 degrees in clockwise direction.
+
+ACW indicates the face is turned through 90 degrees in anti-clockwise direction.
+
+x2 indicates the face is turned through 180 degrees.
+
+The timer automatically starts after performing the first move of the scrambled cube and stops as soon as the cube is solved. The ‘Stop Timer’ button can be used to manually stop the timer and end the solve.
+---
+
+--- CUBE SOLVER 1 ---
+
+Input the Rubik's cube position of the scrambled cube in the unfolded net available and press 'Solve Cube' to get the solution.
+
+Hold the Rubik's cube with the Green side facing you and Yellow side on top.
+(The centre-pieces in each face of the cube net cannot be changed in order to fix the orientation of the cube)
+
+Use the 'Color Picker' to select the color and paste it in the cube net as per the scramble.
+
+There is also a 3-D view of the cube-net available which can be used to ensure correct input.
+
+Alternatively, the 'Scramble Cube' button can be used to input a computer generated random scramble to the cube.
+---
+
+--- CUBE TIMER ---
+Press the space-bar key to start/stop/reset the timer.
+The 'Show Scramble' checkbox can be used to show or hide random scrambles.
+Red - Timer is ready
+Green - Timer has been started
+Black - Timer has been stopped
+---
+
+--- DETAILS ---
+All cube times will automatically be added to session1 which shows best, worst, average times and also the overall progess in the session.
+New Sessions can be added using the '+' button and be saved using the 'Save Session' button.
+All saved sessions can be viewed, edited and deleted under the 'Show Saved Sessions' button.
+---
+
+--- CUBE SOLVER 2 ---
+
+The solution to the scrambled cube has been displayed in the text box, which can be followed to solve the cube.
+
+The Cubical Notation moves (R, U', L, B2...) should be performed while holding the cube with the Green side facing you and Yellow on top.
+
+Alternatively, standard moves (<color> <direction>) can be followed irrespective of the orientation of the cube.
+
+The 'Animate' button can be used to see a visual demonstration of the solution moves.
+
+The Animation Speed can be set using the 'Speed' slider. Speed 1x indicates 1 move per second.
+---

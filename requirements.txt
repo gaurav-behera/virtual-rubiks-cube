@@ -1,0 +1,4 @@
+selenium==3.141.0
+tkmacosx==1.0.3
+matplotlib==3.2.2
+sqlite3
